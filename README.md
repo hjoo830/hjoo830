@@ -1,7 +1,9 @@
 <div align="center"> 
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=97c4ff&height=200&text=Welcome%20to%20Hyoju’s%20GitHub!&animation=fadeIn&fontSize=50&fontAlignY=35)
-
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjoo830&count_bg=%23555555&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   <h3>🛠 Tech Stack 🛠</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
