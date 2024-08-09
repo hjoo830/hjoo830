@@ -30,8 +30,8 @@
 
   <h3>👩‍💻 My Github Stats 👩‍💻</h3>
   
-  [![hjoo830's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjoo830&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&height=150)](https://github.com/anuraghazra/github-readme-stats)
-  
+ [![hjoo830's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjoo830&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&height=150&cache_seconds=1800&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
   <h3>✨ My Most Used Languages ✨</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjoo830&layout=compact&theme=transparent&height=150)](https://github.com/anuraghazra/github-readme-stats)
