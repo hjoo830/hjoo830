@@ -18,18 +18,16 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hjoo830&theme=tokyonight)](https://git.io/streak-stats)
 
-<h2>🌐 Connect with Me 🌐</h2>
-<p style="display: flex; gap: 5px;">
-  <a href="https://hwanghyoju-portfolio.netlify.app/m" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-393E46?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://velog.io/@hjoo830/posts" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://www.linkedin.com/in/%ED%9A%A8%EC%A3%BC-%ED%99%A9-629560331/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<h2>🌐 More About Me 🌐</h2>
+<a href="https://hwanghyoju-portfolio.netlify.app/" target="_blank" style="text-decoration: none; display: inline-block;">
+  <img src="https://img.shields.io/badge/Portfolio-393E46?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://velog.io/@hjoo830/posts" target="_blank" style="text-decoration: none; display: inline-block;">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog"/>
+</a>
+<a href="https://www.linkedin.com/in/%ED%9A%A8%EC%A3%BC-%ED%99%A9-629560331/" target="_blank" style="text-decoration: none; display: inline-block;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <!--
 **hjoo830/hjoo830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
