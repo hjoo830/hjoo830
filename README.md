@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<img src="https://github.com/hjoo830/hjoo830/blob/output/github-contribution-grid-snake.svg"/>
+
 <!--
 **hjoo830/hjoo830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
