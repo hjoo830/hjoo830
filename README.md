@@ -6,7 +6,7 @@
 
 <h2>🚀 Tech Stack 🚀</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,python)](https://skillicons.dev)
 
 <h2>🛠 Tools 🛠</h2>
 
@@ -20,7 +20,7 @@
 
 <h2>🌐 More About Me 🌐</h2>
 <a href="https://hwanghyoju-portfolio.netlify.app/" target="_blank" style="text-decoration: none; display: inline-block;">
-  <img src="https://img.shields.io/badge/Portfolio-393E46?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-93c5fd?style=for-the-badge&logo=readme&logoColor=333333" alt="Portfolio"/>
 </a>
 <a href="https://velog.io/@hjoo830/posts" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog"/>
@@ -28,8 +28,6 @@
 <a href="https://www.linkedin.com/in/%ED%9A%A8%EC%A3%BC-%ED%99%A9-629560331/" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<img src="https://github.com/hjoo830/hjoo830/blob/output/github-contribution-grid-snake.svg"/>
 
 <!--
 **hjoo830/hjoo830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
