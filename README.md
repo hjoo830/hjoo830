@@ -1,12 +1,8 @@
 <h1>Hello, I'm Hyoju! 👋</h1>
 
-<h3>Profile Views 👀</h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjoo830&count_bg=%23555555&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <h2>🚀 Tech Stack 🚀</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 <h2>🛠 Tools 🛠</h2>
 
