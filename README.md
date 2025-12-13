@@ -2,11 +2,17 @@
 
 <h2>🚀 Tech Stack 🚀</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
+<h3>🎨 Frontend</h3>
 
-<h2>🛠 Tools 🛠</h2>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,notion,figma,aws)](https://skillicons.dev)
+<h3>🛠️ Backend</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=spring,java,mysql)](https://skillicons.dev)
+
+<h3>⚙️ Tools </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,figma,aws)](https://skillicons.dev)
 
 <h2>👩‍💻 My Github Stats 👩‍💻</h2>
   
