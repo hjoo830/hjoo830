@@ -21,7 +21,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hjoo830&theme=tokyonight)](https://git.io/streak-stats)
 
 <h2>🌐 More About Me 🌐</h2>
-<a href="https://hwanghyoju-portfolio.netlify.app/" target="_blank" style="text-decoration: none; display: inline-block;">
+<a href="https://glittery-question-771.notion.site/300f6739a2be809bb82cc9889c54beb1" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/Portfolio-93c5fd?style=for-the-badge&logo=readme&logoColor=333333" alt="Portfolio"/>
 </a>
 <a href="https://velog.io/@hjoo830/posts" target="_blank" style="text-decoration: none; display: inline-block;">
