@@ -4,11 +4,11 @@
 
 <h3>🎨 Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts)](https://skillicons.dev)
 
 <h3>🛠️ Backend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,mysql,redis)](https://skillicons.dev)
 
 <h3>⚙️ Tools </h3>
 
