@@ -14,11 +14,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,figma,aws)](https://skillicons.dev)
 
-<h2>👩‍💻 My Github Stats 👩‍💻</h2>
-  
+<h2>💻 Backend Projects 💻</h2>
+
+| 프로젝트명                                                | 설명                                             | 기간                    | 인원 | 역할       |
+| --------------------------------------------------------- | ------------------------------------------------ | ----------------------- | ---- | ---------- |
+| [Closetory](https://github.com/SSAFY14-D102/closetory)    | 옷장 정리부터 AI 코디 추천까지 - 스마트 옷장 앱  | 2026.01.16 ~ 2026.02.11 | 6명  | Backend    |
+| [Your Journey](https://github.com/ssafy-your-journey/was) | 여행 코스를 계획하고 여정을 기록하는 여행 플랫폼 | 2025.11.21 ~ 2025.12.25 | 2명  | Full Stack |
+
+<!-- <h2>👩‍💻 My Github Stats 👩‍💻</h2>
+
  [![hjoo830's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjoo830&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&height=150&cache_seconds=1800&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hjoo830&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hjoo830&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <h2>🌐 More About Me 🌐</h2>
 <a href="https://glittery-question-771.notion.site/300f6739a2be809bb82cc9889c54beb1" target="_blank" style="text-decoration: none; display: inline-block;">
